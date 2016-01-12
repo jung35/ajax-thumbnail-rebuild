@@ -1,0 +1,17 @@
+{
+	"name": "steersman/ajax-thumbnail-rebuild",
+	"description": "Wordpress plugin - AJAX Thumbnail Rebuild",
+	"keywords": ["wordpress", "plugin", "ajax", "thumbnail", "rebuild"],
+	"homepage": "http://steersman.works",
+	"type": "wordpress-plugin",
+	"authors": [
+		{
+			"name": "Jung Oh",
+			"email": "jung.oh@steersman.works"
+		}
+	],
+	"require": {
+		"php": ">=5.5",
+		"composer/installers": "~1.0.12"
+	}
+}
